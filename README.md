@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshuanatividad2023
-- 👀 I’m interested in Data Science, Data Engineering, Data Architecture/Infrastructure
+- 👀 I'm passionate about Data Science, Data Engineering, and Data Architecture/Infrastructure. My goal is to leverage these fields to drive efficiency and innovation in manufacturing engineering.
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence from IBM 
 - 💞️ I’m looking to collaborate on Data Science-y Stuff! 
 - 📫 How to reach me: email- joshua.natividad.2023@gmail.com 
